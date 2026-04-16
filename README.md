@@ -58,7 +58,13 @@ BERT Model Prediction
 ---
 
 
+# ⚙️ Installation & Setup (Step by Step)
+Step 1 — Clone Repository
+git clone https://github.com/mansiyadav1209/fake-news-detector-using-BERT-animatedUI.git 
+cd fake-news-detector-using-BERT-animatedUI
 
+Step 2 — Install Requirements
+pip install -r requirements.txt
 -----------------------------------------------------------------------------------------------
 
 
