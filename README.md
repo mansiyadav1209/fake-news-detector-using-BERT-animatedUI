@@ -28,9 +28,9 @@ This makes the project **accurate,and scalable**.
 
 User Signup/Login
         ↓
-    UI(frontend)
+   Animated UI(frontend)
         ↓
-      Backend
+   FastAPI Backend
         ↓
 BERT Model Prediction
         ↓
@@ -49,10 +49,15 @@ BERT Model Prediction
 * SQLite
 * HTML
 * CSS
+* JavaScript
 * Pandas
 * Scikit-learn
+* FastAPI(Backend)
+* React.js(Frontend)
 
 ---
+
+
 
 -----------------------------------------------------------------------------------------------
 
